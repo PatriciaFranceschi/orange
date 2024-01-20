@@ -75,57 +75,6 @@
 
 ...
 
-## Como rodar a aplicação :arrow_forward:
-
-No terminal, clone o projeto: 
-
-```
-git clone https://github.com/squad-30/OrangeEvolution-Squad30.git
-```
-Entre na pasta do projeto: 
-
-```
-cd OrangeEvolution-squad30
-```
-Instale as dependências: 
-
-```
-npm install
-```
-Execute a aplicação: 
-
-```
-npm start
-```
-Pronto, agora é possivel acessar a aplicação a partir da rota: https://localhost:3000/
-
-... 
-
-## Casos de uso :arrow_forward:
-
-<img src="./docs/projeto.gif" />
-
-Por favor, acessar com os respectivos usuário e admnistrador que foram previamente cadastrados no banco de dados.
-
-### Usuário: 
-
-|name|email|password|
-| -------- |-------- |-------- |
-|Arthur|arthur@arthur.com|123456|
-
-### Administrador: 
-
-|name|email|password|
-| -------- |-------- |-------- |
-|Lucyan|lucyan@lucyan.com|123456|
-
-...
-
-## Modelagem do banco de dados
-
-<img src="./docs/img/database-diagram.png" />
-
-... 
 
 ## Dependencias e tecnologias :computer:
 
@@ -136,15 +85,3 @@ Por favor, acessar com os respectivos usuário e admnistrador que foram previame
 - [cors](https://www.npmjs.com/package/cors)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 
-...
-
-## Desenvolvedores e Contribuintes :octocat:
-
-| [<img src="https://avatars.githubusercontent.com/u/88115781?v=4" width=115><br><sub>Arthur de Melo</sub>](https://github.com/artdemelo) |  [<img src="https://avatars.githubusercontent.com/u/106949997?v=4" width=115><br><sub>Lucyan Ovídio</sub>](https://github.com/lucyanovidio) |  [<img src="https://avatars.githubusercontent.com/u/117302308?v=4" width=115><br><sub>Rosana Marques</sub>](https://github.com/rosanadeveloper) |  [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQG7T8ev1lBF1A/profile-displayphoto-shrink_800_800/0/1516673087717?e=1674086400&v=beta&t=8iLeX4sXaURp7RYKwuMQuPlqi2WCS0gQVylONn3gaN4" width=115><br><sub>Juliana Lopes</sub>](https://www.linkedin.com/in/julianalopesco/) |
-| :---: | :---: | :---: | :---: 
-
-## Licença :trophy:
-
-The [MIT License](./LICENSE) (MIT)
-
-Copyright :copyright: 2022 - Orange Evolution - Squad30
